@@ -35,10 +35,10 @@ Acredito no potencial da tecnologia para transformar realidades e estou comprome
   <img align="center" alt="Git" height="40" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
  </div>
 
- <div align="center">
+## 📊Estatísticas:
+ <div align="left">
   <a href=https://github.com/SilvaLeo1995">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SilvaLeo1995&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-lang/?susername=SilvaLeo1995&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaLeo1995&layout=compact&langs_count=7&theme=dark"/>
  </div>
 
 
