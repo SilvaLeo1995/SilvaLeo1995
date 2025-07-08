@@ -3,9 +3,12 @@
 ## 🧑🏻‍💻Um pouco sobre mim:
 <div>
   <p>
+   
     Olá! Me chamo Leonardo Gabriel Silva e sou estudante de Análise e Desenvolvimento de Sistemas, atualmente cursando o 4º período na Faculdade Cotemig, em Belo Horizonte - MG.
-Sou apaixonado por tecnologia e movido por desafios que me permitem aprender e evoluir constantemente no universo do desenvolvimento de software.
-Acredito no potencial da tecnologia para transformar realidades e estou comprometido em contribuir com soluções criativas, eficientes e que gerem impacto positivo.
+
+    Sou apaixonado por tecnologia e movido por desafios que me permitem aprender e evoluir constantemente no universo do desenvolvimento de software.
+
+    Acredito no potencial da tecnologia para transformar realidades e estou comprometido em contribuir com soluções criativas, eficientes e que gerem impacto positivo.
   </p>
 </div>
 
