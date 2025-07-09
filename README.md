@@ -1,4 +1,4 @@
-### Olá, aqui é o Léo, programador e apaixonado por tecnologia!
+### Leonardo Gabriel
 
 ## 🧑🏻‍💻Um pouco sobre mim:
 
