@@ -1,6 +1,4 @@
-### Leonardo Gabriel
-
-## 🧑🏻‍💻Um pouco sobre mim:
+## 🧑🏻‍💻Leonardo Gabriel
 
 <div>
   <p>
