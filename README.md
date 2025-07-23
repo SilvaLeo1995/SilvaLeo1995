@@ -38,7 +38,7 @@
 ## 📊Estatísticas:
  <div align="left">
   <a href=https:"//github.com/SilvaLeo1995">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaLeo1995&layout=compact&langs_count=16&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaLeo1995&layout=compact&langs_count=16&theme=highcontrast"/>
  </div>
 
 
