@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    Olá! Me chamo <strong>Leonardo Gabriel Silva</strong> e sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, atualmente no 4º período na <strong>Faculdade Cotemig</strong>, em Belo Horizonte - MG.<br><br>
+    Olá! Me chamo <strong>Leonardo Gabriel Silva</strong> e sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong>, atualmente no 5º período na <strong>Faculdade Cotemig</strong>, em Belo Horizonte - MG.<br><br>
    Sou apaixonado por tecnologia e movido por desafios que impulsionam meu aprendizado e crescimento constante na área de <strong>desenvolvimento de software</strong>.<br><br>
    Acredito no poder da tecnologia para transformar realidades e estou comprometido em criar soluções criativas, eficientes e com impacto positivo.
   </p>
